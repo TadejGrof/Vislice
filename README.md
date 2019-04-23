@@ -1,4 +1,4 @@
 # Vislice
 Testni repozitorij
 
-LP Tadej!
+LP Tadej.
